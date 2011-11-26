@@ -15,7 +15,7 @@ package zoo
 		private static var maxNameLenght:Number = 20;
 		private static var maxCalories:Number = 2000;
 		private static var caloriesPerSecond:Number = 100;
-		private var array:Array;
+		private var array:Array; //comment here
 		
 		public function VirtualPet(name:String) 
 		{
